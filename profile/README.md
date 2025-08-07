@@ -1,12 +1,18 @@
-## Hi there 👋
+# 🧾 Tax Center IT Organization
 
-<!--
+Selamat datang di repositori resmi **Tax Center**
 
-**Here are some ideas to get you started:**
+## 🎯 Visi
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Mewujudkan digitalisasi layanan perpajakan berbasis teknologi informasi yang mudah diakses, efisien, dan dapat digunakan oleh seluruh civitas akademika.
+
+## 👥 Tim Pengembang
+
+Organisasi ini terdiri dari developer, kontributor, dan pengelola konten.  
+Untuk bergabung, silakan hubungi admin organisasi untuk mendapatkan akses ke repository dan dokumentasi internal.
+
+## 📄 Lisensi
+
+Lisensi disesuaikan pada masing-masing repositori. Umumnya menggunakan [MIT License](https://opensource.org/licenses/MIT) agar tetap fleksibel namun tetap memiliki pengakuan hak cipta.
+
+> Untuk pertanyaan lebih lanjut, silakan hubungi admin atau kunjungi [Tax Center](https://taxcenterug.com/)
